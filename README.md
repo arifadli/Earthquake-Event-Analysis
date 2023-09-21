@@ -1,1 +1,1 @@
-# Seismic-Tectonic_EQDistribution
+# Seismic Tectonic EQDistribution
