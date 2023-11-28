@@ -1,1 +1,3 @@
-# Seismic Tectonic EQDistribution
+# Seismic Tectonic Eearthquake Distribution
+
+We are trying to mitigate geological disasters in an area through seismotectonic parameters obtained by obtaining a-values and b-values. Analyze the seismicity and tectonic patterns of an area through the logarithmic relationship of event frequency and magnitude using the Gutenberg-Richter equation, where the gradient of this equation is the b-value, which indicates the level of rock fragility and the a-value, which indicates seismic activity in the study area.
