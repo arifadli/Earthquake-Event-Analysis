@@ -1,6 +1,6 @@
 # Spatiotemporal Analyais
 
-Part 1: Spatiotemporal Analysis using a and b value
+<b>Part 1: Spatiotemporal Analysis using a and b value</b>
 Spatial and temporal variations of a-values and b-values in earthquakes in several study areas
 
 Seismicity parameters or what is usually called a-values is a seismic parameter whose value depends on the number of earthquake events, volume, and time window which is within the research limits (Rohadi, et al., 2007).Seismicity values can indicate data characteristics the level of seismicity of an area
