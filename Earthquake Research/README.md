@@ -10,4 +10,4 @@ physics observed before an earthquake occurs. The physical phenomenon that can b
 and strain so that it can be used as an indicator of stress in a region (Ghassabian et al, 2016)</p>
 
 
-Part 2: Gutenberg Richter Law
+<b>Part 2: Gutenberg Richter Law</b>
