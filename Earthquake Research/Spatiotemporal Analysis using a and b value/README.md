@@ -1,1 +1,1 @@
-# Seismic Tectonic EQDistribution
+# Spatiotemporal Analysis Using A and B value
