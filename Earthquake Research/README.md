@@ -11,3 +11,7 @@ and strain so that it can be used as an indicator of stress in a region (Ghassab
 
 
 <b>Part 2: Gutenberg Richter Law</b>
+<p align="justify">The Gutenberg and Richter relationship describes a region's seismicity and tectonic patterns through frequency and magnitude relationship (MFR) analysis. This analysis uses the Gutenberg and Richter equation (Gutenberg & Richter, 1944).</p>
+𝑙𝑜𝑔 𝑁(𝑀) = 𝑎 − 𝑏M .......................................... (1)
+
+<p align="justify">In equation 1, N(M) is the cumulative number of earthquakes, where M is the magnitude used in the research, and the values a and b are the seismicity constant and stress distribution constant, respectively. The b-value shows the gradient of the linear equation of frequency and magnitude relationship. The magnitude value that can explain Equation 1 well is between 4.5 and 7.0 because a magnitude value greater than 7.0 means linearity deviation is possible (Madlazim, 2013).</p>
