@@ -7,6 +7,8 @@
 <p align="justify">In equation 1, N(M) is the cumulative number of earthquakes, where M is the magnitude used in the research, and the values a and b are the seismicity constant and stress distribution constant, respectively. The b-value shows the gradient of the linear equation of frequency and magnitude relationship. The magnitude value that can explain Equation 1 well is between 4.5 and 7.0 because a magnitude value greater than 7.0 means linearity deviation is possible (Madlazim, 2013).</p>
 
 <b>Part 2: Temporal Analysis using a and b value</b><br>
+<b>Part 3: Spatial Analysis using a and b value</b><br>
+
 Spatial and temporal variations of a-values and b-values in earthquakes in several study areas
 
 <p align="justify">Seismicity parameters or what is usually called <b>a-values</b> is a seismic parameter whose value depends on the number of earthquake events, volume, and time window which is within the research limits (Rohadi, et al., 2007).Seismicity values can indicate data characteristics the level of seismicity of an area </p>
