@@ -5,9 +5,6 @@
 <a href="https://github.com/arifadli/Earthquake-Event-Analysis/pulls"><img src="https://img.shields.io/github/issues-pr/arifadli/Earthquake-Event-Analysis" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/arifadli/Earthquake-Event-Analysis/issues"><img src="https://img.shields.io/github/issues/arifadli/Earthquake-Event-Analysis" alt="Issues Badge"/></a>
 <a href="https://github.com/arifadli/Earthquake-Event-Analysis/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/arifadli/Earthquake-Event-Analysis?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farifadli%2FEarthquake-Event-Analysis&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-
-
 
 <b>Part 1: Gutenberg Richter Law</b>
 <p align="justify">The Gutenberg and Richter relationship describes a region's seismicity and tectonic patterns through frequency and magnitude relationship (MFR) analysis. This analysis uses the Gutenberg and Richter equation (Gutenberg & Richter, 1944).</p>
